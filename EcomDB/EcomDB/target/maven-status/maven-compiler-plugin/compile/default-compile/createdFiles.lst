@@ -1,0 +1,6 @@
+com\springdatabase\EcomDB\Controller\CategoryController.class
+com\springdatabase\EcomDB\EcomDbApplication.class
+com\springdatabase\EcomDB\Repository\CategoryRepository.class
+com\springdatabase\EcomDB\Service\CategoryServiceImpl.class
+com\springdatabase\EcomDB\Model\Category.class
+com\springdatabase\EcomDB\Service\CategoryService.class
