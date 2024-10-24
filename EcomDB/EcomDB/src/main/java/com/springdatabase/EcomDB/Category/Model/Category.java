@@ -8,7 +8,7 @@ import lombok.*;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Builder
+@Builder   //multiple properties available 20 -->if you like to use only 3
 @Getter
 @Setter
 public class Category {
@@ -26,6 +26,7 @@ public class Category {
     @Negative */
     private String name;
     private String description;
+
 
 //    public Category(Long id, String name, String description) {
 //        Id = id;
